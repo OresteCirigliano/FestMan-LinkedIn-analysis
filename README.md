@@ -6,4 +6,4 @@ The viz shows an overview of the Festman LinkedIn page and also a report on the 
 
 This visualization has been selected as runner up for the March FestMan Power BI Data Challenge.
 
-[LINK LINKEDIN HERE] https://www.linkedin.com/feed/update/urn:li:activity:6916807176015507456/
+[LINK LINKEDIN HERE] (https://www.linkedin.com/feed/update/urn:li:activity:6916807176015507456/)
